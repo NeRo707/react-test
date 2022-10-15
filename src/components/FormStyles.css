@@ -1,0 +1,38 @@
+.form .btn{
+    background-color: black;
+}
+
+.form .btn:hover{
+    background-color: gray;
+}
+.form{
+    background-color: black;
+}
+label{
+    color: white;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    margin:auto;
+    max-width: 600px;
+    
+}
+
+form label{
+    margin-bottom: .5rem;
+}
+.btn-light{
+    background-color: rgba(121, 121, 121, 0.5);
+}
+form input, textarea{
+    margin-bottom: 1rem;
+    padding: 10px 18px;
+    font-size: 1.2rem;
+    font-family: 'Outfit', sans-serif;
+    background: rgba(255,255,255, .1);
+    background-color: rgba(255,255,255, .1);
+    color: white;
+    border:none;
+}
