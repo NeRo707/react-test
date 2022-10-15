@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-test/static/css/main.2c73a4fd.css",
-    "main.js": "/react-test/static/js/main.1bf42be6.js",
-    "static/media/mommy - Copy.mp4": "/react-test/static/media/mommy - Copy.800318e8fd144df365bc.mp4",
-    "static/media/mommy.mp4": "/react-test/static/media/mommy.800318e8fd144df365bc.mp4",
-    "static/media/200.gif": "/react-test/static/media/200.58cf0b1b7b5b8f3a68ec.gif",
-    "static/media/lifting-heavy.gif": "/react-test/static/media/lifting-heavy.77a0d41317cd31930f63.gif",
-    "index.html": "/react-test/index.html",
-    "main.2c73a4fd.css.map": "/react-test/static/css/main.2c73a4fd.css.map",
-    "main.1bf42be6.js.map": "/react-test/static/js/main.1bf42be6.js.map"
+    "main.css": "./static/css/main.2c73a4fd.css",
+    "main.js": "./static/js/main.c06aaba4.js",
+    "static/media/mommy - Copy.mp4": "./static/media/mommy - Copy.800318e8fd144df365bc.mp4",
+    "static/media/mommy.mp4": "./static/media/mommy.800318e8fd144df365bc.mp4",
+    "static/media/200.gif": "./static/media/200.58cf0b1b7b5b8f3a68ec.gif",
+    "static/media/lifting-heavy.gif": "./static/media/lifting-heavy.77a0d41317cd31930f63.gif",
+    "index.html": "./index.html",
+    "main.2c73a4fd.css.map": "./static/css/main.2c73a4fd.css.map",
+    "main.c06aaba4.js.map": "./static/js/main.c06aaba4.js.map"
   },
   "entrypoints": [
     "static/css/main.2c73a4fd.css",
-    "static/js/main.1bf42be6.js"
+    "static/js/main.c06aaba4.js"
   ]
 }
